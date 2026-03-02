@@ -8,4 +8,4 @@ Due to the size of the retrosheet data files I wanted to limit the number of dat
 
 The research questions associated with usage were looked at both with long-term and short term trend data. The strategy questions were primarily answered with short-term data. Due to small sample sizes associated with individual years I grouped the 4 recent years together to enhance my ability to make meaningful inferences.
 
-The results of this research will be/have been posted in this repository.
+The results of this research have been posted in this repository and a presentation summarizing the findings is located here: https://www.youtube.com/watch?v=fiW-U057GpE
